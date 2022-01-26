@@ -24,8 +24,7 @@ Some of the key features that RekOS provides the users with are (in terms of per
 
 # Disclaimer
 Microsoft Terms & Conditions
-By downloading the ISO you accept the Microsoft Terms
-(https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/Useterms_Retail_Windows_10_English.htm) and you agree that you will use the ISO with a non-profit goal.
+By downloading the ISO you accept the [Microsoft Terms](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/Useterms_Retail_Windows_10_English.htm) and you agree that you will use the ISO with a non-profit goal.
 
 **Rek OS** is not an official microsoft iso and therefore could have potential risks involve. The project is completely non-profitable.
 The released ISO is still in beta and could have some bugs.
