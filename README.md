@@ -1,9 +1,9 @@
 # RekOS - Windows.Just Better
 RekOS is a **custom windows 10** image designed for Gamers for the purposes of achieving better performance and latency!
-This project is made by **Reknotic#8966** for non-profit use.
+It is a windows 10 image with a ton of components and functionalities that are not necessary for gaming and overall performance removed completely allowing the OS to perform at a much more optimal level. This does reduce compatibility with certain applications however most stuff related to gaming performance works completely fine as long as it's intended to work on the specific version/edition of windows 10.
+Features like pre-installed windows apps, ms store and functionalities like printing etc are stripped just to name a few.
 
-# Description - What is RekOS?
-RekOS is custom windows 10 image with a ton of components and functionalities that are not necessary for gaming and overall performance removed completely allowing the OS to perform at a much more optimal level. This does reduce compatibility with certain applications however most stuff related to gaming performance works completely fine as long as it's intended to work on the specific version/edition of windows 10.
+This project is made by **Reknotic#8966** for non-profit use.
 
 # Download RekOS
 **Download RekOS -** [RekOS Discord](https://discord.gg/PMvTHcNHzN)
